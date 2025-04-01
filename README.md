@@ -1,4 +1,4 @@
-# Oi! Meu nome é Levy 😊
+# Oi! Meu nome é Levy
 ## Estudante de Desenvolvimento de Sistemas no SENAI e estou em busca de um primero sim. <br> Atualmente focado em aplicações web. Tenho dedicado maior parte do meu tempo ao full-stack com .NET para back-end e em front-end (HTML, CSS, JavaScript) e uso como framework o Angular.<br> Também tenho conhecimentos em linguagens como C e Java. Estou em busca de oportunidades de estágio ou junior para contribuir em projetos desafiadores e inovadores. <br> Email: alexlevysousaguimaraes@gmail.com
 
 ### Onde me encontrar
